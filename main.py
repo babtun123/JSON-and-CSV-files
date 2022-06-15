@@ -3,10 +3,6 @@
 # Project: 3
 # UIN: 669794692
 # repl.it URL: https://replit.com/@UICCS111HayesSpring2022/Project-3-SamuelShodiya#main.py
-
-# For this project, I received help from the following members of CS111.
-# Krisha Patel, netID 668999424: Worked together on some of the questions and opening the files.
-# Student2name, netID 87654321: help with turtle heading and function parameters
  
 ######################################################
 # imports
